@@ -4,7 +4,7 @@
 
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, cooking 👨‍🍳 or listening to music 🎵. From time to time I just go visit a random place in Europe 🇪🇺 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/robertgim/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<!--- <p align="center"><a href="https://www.linkedin.com/in/robertgim/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> --->
 </p>
 
 <p align=center>
