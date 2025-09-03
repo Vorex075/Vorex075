@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there! My name is Roberto👋</h2>
-<p align="center">I'm currently a in a bachelor's degree in Computer Science in Universidad de La Laguna (ULL), Spain 💻. I love programming in c++ and learn about low level details of software. I'm currently learning `golang` on my own, and it's giving some results...✨ 
+<p align="center">I'm currently a in a bachelor's degree in Computer Science in Universidad de La Laguna (ULL), Spain 💻. I love programming in c++ and learn about low level details of software. I'm currently learning Go on my own, and it's giving some results...✨ 
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, cooking 👨‍🍳 or listening to music 🎵. From time to time I just go visit a random place in Europe 🇪🇺 </p>
