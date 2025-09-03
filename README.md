@@ -14,7 +14,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Robert075"><img src="https://img.shields.io/github/followers/Robert075?style=social"></a>
+<!---<a href="https://github.com/Robert075"><img src="https://img.shields.io/github/followers/Robert075?style=social"></a> --->
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Macine Learning-green"> <img src="https://img.shields.io/badge/Algorithms-blue"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Backend-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-cactus"> 
